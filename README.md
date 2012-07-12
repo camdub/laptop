@@ -1,3 +1,12 @@
+My TODO
+----------------------------------------
+
+* Swap out rvm for rbenv
+* Install MacVim
+* Get my dotfiles (dotfiles is a TODO as well)
+* Possibly install [YADR](https://github.com/skwp/dotfiles)
+* Overall prune script for my needs
+
 Laptop
 ======
 
